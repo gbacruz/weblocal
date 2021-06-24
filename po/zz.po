@@ -1,0 +1,1111 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-06-09 23:29-0500\n"
+"PO-Revision-Date: 2021-06-08 03:52+0000\n"
+"Last-Translator: Michelle Sargent <misargent@indeed.com>\n"
+"Language-Team: English <https://weblate.corp.indeed.com/projects/indeed/vrlog-draw-plugin-2/en/>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.9.1\n"
+
+#. 3rd line of email to disable Virtual Recruiter
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/utils/emailUtils.ts:1
+msgid "(Optional) Do you have any feedback for us?"
+msgstr "(Ō'ṗṫīōṅāƚ) Ɗō ẏōū ħāṽē āṅẏ ḟēēđƃāċҟ ḟōṙ ūṡ?"
+
+#. separator between a list of locations
+#. separator between keywords in the keyword optimization item description
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/AdditionalLocationOptItem.tsx:1
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/GenderDecoderOptItem.tsx:1
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/KeywordOptItem.tsx:1
+msgid ", "
+msgstr ", "
+
+#. separator between last 2 locations in a list
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/AdditionalLocationOptItem.tsx:1
+msgid ", and "
+msgstr ", ā'ṅđ "
+
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLog/ActivityLog.tsx:1
+msgid "Activity Log"
+msgstr "Ă'ċṫīṽīṫẏ Ĺōḡ"
+
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/VrManagement/VrManagement.tsx:1
+msgid "Activity log"
+msgstr "Ă'ċṫīṽīṫẏ ƚōḡ"
+
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/SuggestedActionItem/SalarySuggestionItem.tsx:1
+msgid "Add pay information"
+msgstr "Ă'đđ ṗāẏ īṅḟōṙṁāṫīōṅ"
+
+#. Title of a suggested action item. This item recommends setting compensation information to the job. {0} is a formatted salary value of a format like "$11 per hour", "$5,000 per month", etc.
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/SuggestedActionItem/SalarySuggestionItem.tsx:1
+#, python-brace-format
+msgid "Add pay information to your job: {0} (recommended)"
+msgstr "Ă''đđ ṗāẏ īṅḟōṙṁāṫīōṅ ṫō ẏōūṙ ɉōƃ: {0} (ṙēċōṁṁēṅđēđ)"
+
+#. title of assessment optimization item
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/AssessmentOptItem.tsx:1
+msgid "Added Skills Assessments used by successful jobs"
+msgstr "Ă'đđēđ Šҟīƚƚṡ Ăṡṡēṡṡṁēṅṫṡ ūṡēđ ƃẏ ṡūċċēṡṡḟūƚ ɉōƃṡ"
+
+#. title of indeed question added optimization event
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/QuestionAddedOptItem.tsx:1
+msgid "Added applicant qualifications used by successful jobs"
+msgstr "Ă'đđēđ āṗṗƚīċāṅṫ ɋūāƚīḟīċāṫīōṅṡ ūṡēđ ƃẏ ṡūċċēṡṡḟūƚ ɉōƃṡ"
+
+#. title of company description optimization
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/CompanyDescriptionOptItem.tsx:1
+msgid "Added company description"
+msgstr "Ă'đđēđ ċōṁṗāṅẏ đēṡċṙīṗṫīōṅ"
+
+#. Section item description for modal in vr logo
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ModalContent/content.ts:1
+msgid "Adding assessments to showcase quality candidates"
+msgstr "Ă'đđīṅḡ āṡṡēṡṡṁēṅṫṡ ṫō ṡħōẇċāṡē ɋūāƚīṫẏ ċāṅđīđāṫēṡ"
+
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/CpoSponsorshipOptItem.tsx:1
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/SponsorshipOptItem.tsx:1
+msgid "Adjust budget"
+msgstr "Ă'đɉūṡṫ ƃūđḡēṫ"
+
+#. title of additional location optimization item. {0} is a list of new locations the job is advertised in.
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/AdditionalLocationOptItem.tsx:1
+#, python-brace-format
+msgid "Advertised in {0}"
+msgstr "Ă''đṽēṙṫīṡēđ īṅ {0}"
+
+#. Section item description for modal in vr logo
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ModalContent/content.ts:1
+msgid "Advertising your job post in wider areas"
+msgstr "Ă'đṽēṙṫīṡīṅḡ ẏōūṙ ɉōƃ ṗōṡṫ īṅ ẇīđēṙ āṙēāṡ"
+
+#. title of pending optimization event item
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/EventItem/PendingOptimizationEvntItem.tsx:1
+msgid "Analyzing your job for optimal performance"
+msgstr "Ă'ṅāƚẏžīṅḡ ẏōūṙ ɉōƃ ḟōṙ ōṗṫīṁāƚ ṗēṙḟōṙṁāṅċē"
+
+#. Section item description for modal in vr logo
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ModalContent/content.ts:1
+msgid "Ask applicants to tell more about their motivation"
+msgstr "Ă'ṡҟ āṗṗƚīċāṅṫṡ ṫō ṫēƚƚ ṁōṙē āƃōūṫ ṫħēīṙ ṁōṫīṽāṫīōṅ"
+
+#. title of cover letter optimization item
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/CoverLetterOptItem.tsx:1
+msgid "Asking job seekers to add a Cover Letter to their application"
+msgstr "Ă'ṡҟīṅḡ ɉōƃ ṡēēҟēṙṡ ṫō āđđ ā Ƈōṽēṙ Ĺēṫṫēṙ ṫō ṫħēīṙ āṗṗƚīċāṫīōṅ"
+
+#. title of resume optimization item text
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/ResumeOptItem.tsx:1
+msgid "Asking job seekers to add a resume to their application"
+msgstr "Ă'ṡҟīṅḡ ɉōƃ ṡēēҟēṙṡ ṫō āđđ ā ṙēṡūṁē ṫō ṫħēīṙ āṗṗƚīċāṫīōṅ"
+
+#. Section title for modal in vr logo
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ModalContent/content.ts:1
+msgid "Assess applicants’ commitment"
+msgstr "Ă'ṡṡēṡṡ āṗṗƚīċāṅṫṡ’ ċōṁṁīṫṁēṅṫ"
+
+#. checkbox label text in feedback questionnaire for disabling virtual recruiter
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/VrDisablePopup/VrDisableSurveyContent.tsx:1
+msgid "Assistant is sending unqualified applicants"
+msgstr "Ă'ṡṡīṡṫāṅṫ īṡ ṡēṅđīṅḡ ūṅɋūāƚīḟīēđ āṗṗƚīċāṅṫṡ"
+
+#. Body of a suggested action item. This item recommends setting compensation information to the job.
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/SuggestedActionItem/SalarySuggestionItem.tsx:1
+msgid "Attract more job seekers to your job by adding pay information. Jobs with this information listed are 40% more likely to hire (Indeed Hire, US). The assistant does not automatically add pay information to your job without your confirmation."
+msgstr "Ă'ṫṫṙāċṫ ṁōṙē ɉōƃ ṡēēҟēṙṡ ṫō ẏōūṙ ɉōƃ ƃẏ āđđīṅḡ ṗāẏ īṅḟōṙṁāṫīōṅ. Ĵōƃṡ ẇīṫħ ṫħīṡ īṅḟōṙṁāṫīōṅ ƚīṡṫēđ āṙē 40% ṁōṙē ƚīҟēƚẏ ṫō ħīṙē (Īṅđēēđ Ĥīṙē, ŨŠ). Ťħē āṡṡīṡṫāṅṫ đōēṡ ṅōṫ āūṫōṁāṫīċāƚƚẏ āđđ ṗāẏ īṅḟōṙṁāṫīōṅ ṫō ẏōūṙ ɉōƃ ẇīṫħōūṫ ẏōūṙ ċōṅḟīṙṁāṫīōṅ."
+
+#. Section title for modal in vr logo
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ModalContent/content.ts:1
+msgid "Attract relevant job seekers"
+msgstr "Ă'ṫṫṙāċṫ ṙēƚēṽāṅṫ ɉōƃ ṡēēҟēṙṡ"
+
+#. title text for interview setting section
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/pluginClasses/vrActivityLog/containers/VrActivityTabContainer.tsx:1
+msgid "Automate interview scheduling"
+msgstr "Ă'ūṫōṁāṫē īṅṫēṙṽīēẇ ṡċħēđūƚīṅḡ"
+
+#. Section title for modal in vr logo
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ModalContent/content.ts:1
+msgid "Automatic job enhancement"
+msgstr "Ă'ūṫōṁāṫīċ ɉōƃ ēṅħāṅċēṁēṅṫ"
+
+#. description of salary optimization item. {0} is salary range.
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/SalaryOptItem.tsx:1
+#, python-brace-format
+msgid "Based on your feedback, we've added a salary of {0} to your job"
+msgstr "Ɓ''āṡēđ ōṅ ẏōūṙ ḟēēđƃāċҟ, ẇē'ṽē āđđēđ ā ṡāƚāṙẏ ōḟ {0} ṫō ẏōūṙ ɉōƃ"
+
+#. Example of when employers show interest to candidates
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/EmployerAssistOptItem.tsx:1
+msgid "Call them and submit a post-call survey"
+msgstr "Ƈ'āƚƚ ṫħēṁ āṅđ ṡūƃṁīṫ ā ṗōṡṫ-ċāƚƚ ṡūṙṽēẏ"
+
+#. title of indeed question changed optimization event
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/QuestionUpdatedOptItem.tsx:1
+msgid "Changed applicant qualifications to required"
+msgstr "Ƈ'ħāṅḡēđ āṗṗƚīċāṅṫ ɋūāƚīḟīċāṫīōṅṡ ṫō ṙēɋūīṙēđ"
+
+#. Section item description for modal in vr logo
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ModalContent/content.ts:1
+msgid "Clarify their availability for next steps"
+msgstr "Ƈ'ƚāṙīḟẏ ṫħēīṙ āṽāīƚāƃīƚīṫẏ ḟōṙ ṅēẋṫ ṡṫēṗṡ"
+
+#. Button, close modal button
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/Modal/Modal.stories.tsx:1
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/Modal/Modal.tsx:1
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/VrDisablePopup/VrDisablePopup.tsx:1
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/VrManagement/VrManagement.tsx:1
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/pluginClasses/vrActivityLog/containers/VrActivityLogContainer.tsx:1
+msgid "Close"
+msgstr "Ƈ'ƚōṡē"
+
+#. Section item description for modal in vr logo
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ModalContent/content.ts:1
+msgid "Collecting candidate requirements"
+msgstr "Ƈ'ōƚƚēċṫīṅḡ ċāṅđīđāṫē ṙēɋūīṙēṁēṅṫṡ"
+
+#. Section item description for modal in vr logo
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ModalContent/content.ts:1
+msgid "Collecting feedback on your ideal candidates"
+msgstr "Ƈ'ōƚƚēċṫīṅḡ ḟēēđƃāċҟ ōṅ ẏōūṙ īđēāƚ ċāṅđīđāṫēṡ"
+
+#. Section item description for modal in vr logo
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ModalContent/content.ts:1
+msgid "Confirm their experience and skills"
+msgstr "Ƈ'ōṅḟīṙṁ ṫħēīṙ ēẋṗēṙīēṅċē āṅđ ṡҟīƚƚṡ"
+
+#. description of job alive event
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/EventItem/JobAliveEvntItem.tsx:1
+msgid "Congratulations! Your job is now live and is searchable by thousands of job seekers."
+msgstr "Ƈ'ōṅḡṙāṫūƚāṫīōṅṡ! Ŷōūṙ ɉōƃ īṡ ṅōẇ ƚīṽē āṅđ īṡ ṡēāṙċħāƃƚē ƃẏ ṫħōūṡāṅđṡ ōḟ ɉōƃ ṡēēҟēṙṡ."
+
+#. button text for submitting survey and continuing to next step
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/VrDisablePopup/VrDisableSurveyContent.tsx:1
+msgid "Continue"
+msgstr "Ƈ'ōṅṫīṅūē"
+
+#. button text for disable option in VR disable popup
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/VrDisablePopup/VrDisableStartContent.tsx:1
+msgid "Continue to disable"
+msgstr "Ƈ'ōṅṫīṅūē ṫō đīṡāƃƚē"
+
+#. 2nd item of a list explaining benefit of virtual recruiter
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/VrDisablePopup/VrDisableStartContent.tsx:1
+msgid "Continued sourcing & screening to find matching job seekers"
+msgstr "Ƈ'ōṅṫīṅūēđ ṡōūṙċīṅḡ & screening to find matching job seekers"
+
+#. Section title for modal in vr logo
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ModalContent/content.ts:1
+msgid "Curate a list of promising candidates"
+msgstr "Ƈ'ūṙāṫē ā ƚīṡṫ ōḟ ṗṙōṁīṡīṅḡ ċāṅđīđāṫēṡ"
+
+#. Section item description for modal in vr logo
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ModalContent/content.ts:1
+msgid "Curate a list of promising candidates that matches the job requirements. Your other applicants will still be visible anytime."
+msgstr "Ƈ'ūṙāṫē ā ƚīṡṫ ōḟ ṗṙōṁīṡīṅḡ ċāṅđīđāṫēṡ ṫħāṫ ṁāṫċħēṡ ṫħē ɉōƃ ṙēɋūīṙēṁēṅṫṡ. Ŷōūṙ ōṫħēṙ āṗṗƚīċāṅṫṡ ẇīƚƚ ṡṫīƚƚ ƃē ṽīṡīƃƚē āṅẏṫīṁē."
+
+#. value tag of shortlist creation event item
+#. value tag of shortlist updated event item
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/EventItem/ShortlistCreationEvntItem.tsx:1
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/EventItem/ShortlistRevampEvntItem.tsx:1
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/EventItem/ShortlistUpdateEvntItem.tsx:1
+msgid "Curated List"
+msgstr "Ƈ'ūṙāṫēđ Ĺīṡṫ"
+
+#. title of shortlist creation event item
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/EventItem/ShortlistCreationEvntItem.tsx:1
+msgid "Curated a list of promising candidates"
+msgstr "Ƈ'ūṙāṫēđ ā ƚīṡṫ ōḟ ṗṙōṁīṡīṅḡ ċāṅđīđāṫēṡ"
+
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/VrManagement/VrManagement.tsx:1
+msgid "Curated candidates"
+msgstr "Ƈ'ūṙāṫēđ ċāṅđīđāṫēṡ"
+
+#. Section title for modal in vr logo
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ModalContent/content.ts:1
+msgid "Curated list of promising candidates"
+msgstr "Ƈ'ūṙāṫēđ ƚīṡṫ ōḟ ṗṙōṁīṡīṅḡ ċāṅđīđāṫēṡ"
+
+#. Section item description for modal in vr logo
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ModalContent/content.ts:1
+msgid "Customizing your job title to reach more job seekers"
+msgstr "Ƈ'ūṡṫōṁīžīṅḡ ẏōūṙ ɉōƃ ṫīṫƚē ṫō ṙēāċħ ṁōṙē ɉōƃ ṡēēҟēṙṡ"
+
+#. 1st item of a list explaining benefit of virtual recruiter
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/VrDisablePopup/VrDisableStartContent.tsx:1
+msgid "Daily emails highlighting the most qualified applicants"
+msgstr "Ɗ'āīƚẏ ēṁāīƚṡ ħīḡħƚīḡħṫīṅḡ ṫħē ṁōṡṫ ɋūāƚīḟīēđ āṗṗƚīċāṅṫṡ"
+
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/SummaryItem/SummaryItemWrapper.tsx:1
+msgid "Data unavailable"
+msgstr "Ɗ'āṫā ūṅāṽāīƚāƃƚē"
+
+#. Enabled employer assist item title
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/EmployerAssistOptItem.tsx:1
+msgid "Decline applicants that you haven’t acted on"
+msgstr "Ɗ'ēċƚīṅē āṗṗƚīċāṅṫṡ ṫħāṫ ẏōū ħāṽēṅ’ṫ āċṫēđ ōṅ"
+
+#. button text for togglin off
+#. link text to disable virtual recruiter for this job
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/EmployerAssistOptItem.tsx:1
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/VrStatus/VrStatus.tsx:1
+msgid "Disable"
+msgstr "Ɗ'īṡāƃƚē"
+
+#. button text for disable option in VR disable popup
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/VrDisablePopup/VrDisableOptionContent.tsx:1
+msgid "Disable assistant for all jobs on my account"
+msgstr "Ɗ'īṡāƃƚē āṡṡīṡṫāṅṫ ḟōṙ āƚƚ ɉōƃṡ ōṅ ṁẏ āċċōūṅṫ"
+
+#. link text to disable virtual recruiter for this job
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/VrStatus/VrStatus.tsx:1
+msgid "Disable the assistant"
+msgstr "Ɗ'īṡāƃƚē ṫħē āṡṡīṡṫāṅṫ"
+
+#. Button text for disabling virtual recruiter feature
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/EventItem/VrEnabledEvntItem.tsx:1
+msgid "Disable the virtual recruiting assistant"
+msgstr "Ɗ'īṡāƃƚē ṫħē ṽīṙṫūāƚ ṙēċṙūīṫīṅḡ āṡṡīṡṫāṅṫ"
+
+#. subject of Disable Virtual Recruiter email
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/utils/emailUtils.stories.tsx:1
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/utils/emailUtils.ts:1
+#, python-brace-format
+msgid "Disable the virtual recruiting assistant for {0}"
+msgstr "Ɗ''īṡāƃƚē ṫħē ṽīṙṫūāƚ ṙēċṙūīṫīṅḡ āṡṡīṡṫāṅṫ ḟōṙ {0}"
+
+#. heading of VR disable popup options
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/VrDisablePopup/VrDisableOptionContent.tsx:1
+msgid "Disable virtual recruiting assistant"
+msgstr "Ɗ'īṡāƃƚē ṽīṙṫūāƚ ṙēċṙūīṫīṅḡ āṡṡīṡṫāṅṫ"
+
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/VrStatus/VrStatus.tsx:1
+msgid "Disabled"
+msgstr "Ɗ'īṡāƃƚēđ"
+
+#. Disabled employer assist item title
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/EmployerAssistOptItem.tsx:1
+msgid "Disabled: Decline applicants that you haven’t acted on"
+msgstr "Ɗ'īṡāƃƚēđ: Ɗēċƚīṅē āṗṗƚīċāṅṫṡ ṫħāṫ ẏōū ħāṽēṅ’ṫ āċṫēđ ōṅ"
+
+#. Edit indeed question button text
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/QuestionAddedOptItem.tsx:1
+msgid "Edit Screener Question"
+msgstr "Ĕ'đīṫ Šċṙēēṅēṙ ℚūēṡṫīōṅ"
+
+#. button text for editing job post
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/AdditionalLocationOptItem.tsx:1
+msgid "Edit advertising locations"
+msgstr "Ĕ'đīṫ āđṽēṙṫīṡīṅḡ ƚōċāṫīōṅṡ"
+
+#. An updated version of Edit indeed question button text
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/QuestionAddedOptItem.tsx:1
+msgid "Edit applicant qualifications"
+msgstr "Ĕ'đīṫ āṗṗƚīċāṅṫ ɋūāƚīḟīċāṫīōṅṡ"
+
+#. Edit company description button text
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/CompanyDescriptionOptItem.tsx:1
+msgid "Edit company description"
+msgstr "Ĕ'đīṫ ċōṁṗāṅẏ đēṡċṙīṗṫīōṅ"
+
+#. Edit Cover Letter Requirements button text
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/CoverLetterOptItem.tsx:1
+msgid "Edit cover letter requirements"
+msgstr "Ĕ'đīṫ ċōṽēṙ ƚēṫṫēṙ ṙēɋūīṙēṁēṅṫṡ"
+
+#. Edit description button text
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/KeywordOptItem.tsx:1
+msgid "Edit description"
+msgstr "Ĕ'đīṫ đēṡċṙīṗṫīōṅ"
+
+#. button text for editing job post
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/GenderDecoderOptItem.tsx:1
+msgid "Edit job post"
+msgstr "Ĕ'đīṫ ɉōƃ ṗōṡṫ"
+
+#. Edit Question Requirements button text
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/QuestionUpdatedOptItem.tsx:1
+msgid "Edit question requirements"
+msgstr "Ĕ'đīṫ ɋūēṡṫīōṅ ṙēɋūīṙēṁēṅṫṡ"
+
+#. Edit Resume Requirements button text
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/ResumeOptItem.tsx:1
+msgid "Edit resume requirements"
+msgstr "Ĕ'đīṫ ṙēṡūṁē ṙēɋūīṙēṁēṅṫṡ"
+
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/SalaryOptItem.tsx:1
+msgid "Edit salary"
+msgstr "Ĕ'đīṫ ṡāƚāṙẏ"
+
+#. button text
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/AssessmentOptItem.tsx:1
+msgid "Edit skills assessment"
+msgstr "Ĕ'đīṫ ṡҟīƚƚṡ āṡṡēṡṡṁēṅṫ"
+
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/TitleNormOptItem.tsx:1
+msgid "Edit title"
+msgstr "Ĕ'đīṫ ṫīṫƚē"
+
+#. button text for togglin on
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/EmployerAssistOptItem.tsx:1
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/JobListDropdown/JobListDropdown.tsx:1
+msgid "Enable"
+msgstr "Ĕ'ṅāƃƚē"
+
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/VrStatus/VrStatus.tsx:1
+msgid "Enabled"
+msgstr "Ĕ'ṅāƃƚēđ"
+
+#. title of virtual recruiter enabled event item
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/EventItem/VrEnabledEvntItem.tsx:1
+msgid "Enabling the virtual recruiting assistant and a curated list of promising candidates"
+msgstr "Ĕ'ṅāƃƚīṅḡ ṫħē ṽīṙṫūāƚ ṙēċṙūīṫīṅḡ āṡṡīṡṫāṅṫ āṅđ ā ċūṙāṫēđ ƚīṡṫ ōḟ ṗṙōṁīṡīṅḡ ċāṅđīđāṫēṡ"
+
+#. Section item description for modal in vr logo
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ModalContent/content.ts:1
+msgid "Ensure commute time works for them"
+msgstr "Ĕ'ṅṡūṙē ċōṁṁūṫē ṫīṁē ẇōṙҟṡ ḟōṙ ṫħēṁ"
+
+#. title of location expansion optimization item
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/I2AExpansionOptItem.tsx:1
+msgid "Expanded sourcing radius enabled"
+msgstr "Ĕ'ẋṗāṅđēđ ṡōūṙċīṅḡ ṙāđīūṡ ēṅāƃƚēđ"
+
+#. Section title for modal in vr logo
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ModalContent/content.ts:1
+msgid "Find your ideal candidates"
+msgstr "Ƒ'īṅđ ẏōūṙ īđēāƚ ċāṅđīđāṫēṡ"
+
+#. label for non sponsored job
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/utils/formatBudget.ts:1
+msgid "Free post"
+msgstr "Ƒ'ṙēē ṗōṡṫ"
+
+#. a message shown when virtual recruiter haven't optimized this job yet
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/SummaryItem/AppliedOptimizationItem.tsx:1
+msgid "Gathering data to optimize your job..."
+msgstr "Ğ'āṫħēṙīṅḡ đāṫā ṫō ōṗṫīṁīžē ẏōūṙ ɉōƃ..."
+
+#. a message shown when view, applicants or sourced applicants are 0.
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/SummaryItem/GatheringDataBody.tsx:1
+msgid "Gathering data..."
+msgstr "Ğ'āṫħēṙīṅḡ đāṫā..."
+
+#. title of gender decoder optimization item
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/GenderDecoderOptItem.tsx:1
+msgid "Gender specific language detected and updated"
+msgstr "Ğ'ēṅđēṙ ṡṗēċīḟīċ ƚāṅḡūāḡē đēṫēċṫēđ āṅđ ūṗđāṫēđ"
+
+#. description of VR disable popup
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/VrDisablePopup/VrDisableStartContent.tsx:1
+msgid "Here's what you can expect from the virtual recruiting assistant in the next few days:"
+msgstr "Ĥ'ēṙē'ṡ ẇħāṫ ẏōū ċāṅ ēẋṗēċṫ ḟṙōṁ ṫħē ṽīṙṫūāƚ ṙēċṙūīṫīṅḡ āṡṡīṡṫāṅṫ īṅ ṫħē ṅēẋṫ ḟēẇ đāẏṡ:"
+
+#. Title for a group which shows status of shortlist creation and time saved by virtual recruiter
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/Summary/Summary.tsx:1
+msgid "Highlights"
+msgstr "Ĥ'īḡħƚīḡħṫṡ"
+
+#. checkbox label text in feedback questionnaire for disabling virtual recruiter
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/VrDisablePopup/VrDisableSurveyContent.tsx:1
+msgid "I want to see all my applicants"
+msgstr "Ī' ẇāṅṫ ṫō ṡēē āƚƚ ṁẏ āṗṗƚīċāṅṫṡ"
+
+#. value tag of cover letter optimization item
+#. value tag of resume optimization item text
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/CoverLetterOptItem.tsx:1
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/ResumeOptItem.tsx:1
+msgid "Identify committed applicants"
+msgstr "Ī'đēṅṫīḟẏ ċōṁṁīṫṫēđ āṗṗƚīċāṅṫṡ"
+
+#. value tag of assessment optimization item
+#. value tag of indeed question added optimization event
+#. value tag of indeed question changed optimization event
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/AssessmentOptItem.tsx:1
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/QuestionAddedOptItem.tsx:1
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/QuestionUpdatedOptItem.tsx:1
+msgid "Identify qualified applications"
+msgstr "Ī'đēṅṫīḟẏ ɋūāƚīḟīēđ āṗṗƚīċāṫīōṅṡ"
+
+#. description of additional location optimization item.
+#. {0} is the original location the job was posted, {1} is a list of new locations the job is advertised in.
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/AdditionalLocationOptItem.tsx:1
+#, python-brace-format
+msgid "In addition to {0} this job has also been advertised in {1} to maximize your reach."
+msgstr "Ī''ṅ āđđīṫīōṅ ṫō {0} ṫħīṡ ɉōƃ ħāṡ āƚṡō ƃēēṅ āđṽēṙṫīṡēđ īṅ {1} ṫō ṁāẋīṁīžē ẏōūṙ ṙēāċħ."
+
+#. value tag of company description optimization item
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/CompanyDescriptionOptItem.tsx:1
+msgid "Increase apply rate"
+msgstr "Ī'ṅċṙēāṡē āṗṗƚẏ ṙāṫē"
+
+#. value tag of additional location optimization item
+#. value tag of gender decoder optimization item
+#. value tag of location expansion optimization item
+#. value tag of keyword optimization item
+#. value tag of personalized invite2apply optimization item
+#. value tag of salary optimization item
+#. value tag of title normalization optimization item
+#. value tag of urgent hire optimization item text
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/AdditionalLocationOptItem.tsx:1
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/CpoSponsorshipOptItem.tsx:1
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/GenderDecoderOptItem.tsx:1
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/I2AExpansionOptItem.tsx:1
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/KeywordOptItem.tsx:1
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/PersonalizedI2AOptItem.tsx:1
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/SalaryOptItem.tsx:1
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/SponsorshipOptItem.tsx:1
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/TitleNormOptItem.tsx:1
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/UrgentHireOptItem.tsx:1
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/SuggestedActionItem/SalarySuggestionItem.tsx:1
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/SuggestedActionItem/SponsorshipSuggestionItem.tsx:1
+msgid "Increasing applies"
+msgstr "Ī'ṅċṙēāṡīṅḡ āṗṗƚīēṡ"
+
+#. Section item description for modal in vr logo
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ModalContent/content.ts:1
+msgid "Inviting quality job seekers to apply"
+msgstr "Ī'ṅṽīṫīṅḡ ɋūāƚīṫẏ ɉōƃ ṡēēҟēṙṡ ṫō āṗṗƚẏ"
+
+#. Title for a group which shows # of applied optimization by virtual recruiter and job budget
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/Summary/Summary.tsx:1
+msgid "Job Optimizations"
+msgstr "Ĵ'ōƃ Ōṗṫīṁīžāṫīōṅṡ"
+
+#. Title for a group which shows # of applicants and views of a job
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/Summary/Summary.tsx:1
+msgid "Job Performance"
+msgstr "Ĵ'ōƃ Ṕēṙḟōṙṁāṅċē"
+
+#. title of job posted event
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/EventItem/JobPostedEvntItem.tsx:1
+msgid "Job details submitted to Indeed"
+msgstr "Ĵ'ōƃ đēṫāīƚṡ ṡūƃṁīṫṫēđ ṫō Īṅđēēđ"
+
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/VrStatus/VrStatus.tsx:1
+msgid "Job is closed"
+msgstr "Ĵ'ōƃ īṡ ċƚōṡēđ"
+
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/VrStatus/VrStatus.tsx:1
+msgid "Job is open"
+msgstr "Ĵ'ōƃ īṡ ōṗēṅ"
+
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/VrStatus/VrStatus.tsx:1
+msgid "Job is paused"
+msgstr "Ĵ'ōƃ īṡ ṗāūṡēđ"
+
+#. automation type of pending optimization event item
+#. automation type of additional location optimization item
+#. automation type of employer assist optimization item
+#. automation type of gender decoder optimization item
+#. automation type of location expansion optimization item
+#. automation type of keyword optimization item
+#. automation type of title normalization optimization item
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/EventItem/ConditionalOptEvntItem.tsx:1
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/EventItem/PendingOptimizationEvntItem.tsx:1
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/AdditionalLocationOptItem.tsx:1
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/EmployerAssistOptItem.tsx:1
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/GenderDecoderOptItem.tsx:1
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/I2AExpansionOptItem.tsx:1
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/KeywordOptItem.tsx:1
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/TitleNormOptItem.tsx:1
+msgid "Job optimization"
+msgstr "Ĵ'ōƃ ōṗṫīṁīžāṫīōṅ"
+
+#. description of gender decoder optimization item
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/GenderDecoderOptItem.tsx:1
+msgid "Jobs are likely to perform better without gender specific terms. We've updated those terms in your job post."
+msgstr "Ĵ'ōƃṡ āṙē ƚīҟēƚẏ ṫō ṗēṙḟōṙṁ ƃēṫṫēṙ ẇīṫħōūṫ ḡēṅđēṙ ṡṗēċīḟīċ ṫēṙṁṡ. Ŵē'ṽē ūṗđāṫēđ ṫħōṡē ṫēṙṁṡ īṅ ẏōūṙ ɉōƃ ṗōṡṫ."
+
+#. button text for keep option in VR disable popup
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/VrDisablePopup/VrDisableStartContent.tsx:1
+msgid "Keep enabled"
+msgstr "Ķ'ēēṗ ēṅāƃƚēđ"
+
+#. heading of keyword optimization item description. List of added keywords separated by comma follows this string
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/KeywordOptItem.tsx:1
+msgid "Keywords: "
+msgstr "Ķ'ēẏẇōṙđṡ: "
+
+#. link text to employer assist article
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/EmployerAssistOptItem.tsx:1
+msgid "Learn more"
+msgstr "Ĺ'ēāṙṅ ṁōṙē"
+
+#. heading of VR disable popup
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/VrDisablePopup/VrDisableStartContent.tsx:1
+msgid "Leaving so soon? We still have work to do!"
+msgstr "Ĺ'ēāṽīṅḡ ṡō ṡōōṅ? Ŵē ṡṫīƚƚ ħāṽē ẇōṙҟ ṫō đō!"
+
+#. Example of when employers show interest to candidates
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/EmployerAssistOptItem.tsx:1
+msgid "Mark them as \"Yes\" or \"Maybe\""
+msgstr "Ḿ'āṙҟ ṫħēṁ āṡ \"Ŷēṡ\" ōṙ \"Ḿāẏƃē\""
+
+#. heading of gender decoder optimization item. List of updated terms, separated by commas, follows this string
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/GenderDecoderOptItem.tsx:1
+msgid "New terms: "
+msgstr "Ň'ēẇ ṫēṙṁṡ: "
+
+#. label that indicates virtual haven't recruiter created a shortlist
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/SummaryItem/ShortlistItem.tsx:1
+msgid "No promising candidates in the curated list yet..."
+msgstr "Ň'ō ṗṙōṁīṡīṅḡ ċāṅđīđāṫēṡ īṅ ṫħē ċūṙāṫēđ ƚīṡṫ ẏēṫ..."
+
+#. heading of gender decoder optimization item. List of terms before they were updated, separated by commas, follows this string
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/GenderDecoderOptItem.tsx:1
+msgid "Old terms: "
+msgstr "Ō'ƚđ ṫēṙṁṡ: "
+
+#. the message for giving another option
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/VrDisablePopup/VrDisableOptionContent.tsx:1
+msgid "Or"
+msgstr "Ō'ṙ"
+
+#. checkbox label text in feedback questionnaire for disabling virtual recruiter
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/VrDisablePopup/VrDisableSurveyContent.tsx:1
+msgid "Other"
+msgstr "Ō'ṫħēṙ"
+
+#. title of conditional optimization applied event item
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/EventItem/ConditionalOptEvntItem.tsx:1
+msgid "Performance check complete"
+msgstr "Ṕ'ēṙḟōṙṁāṅċē ċħēċҟ ċōṁṗƚēṫē"
+
+#. title of personalized invite2apply optimization item
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/PersonalizedI2AOptItem.tsx:1
+msgid "Personalized invitations sent to qualified job seeker"
+msgstr "Ṕ'ēṙṡōṅāƚīžēđ īṅṽīṫāṫīōṅṡ ṡēṅṫ ṫō ɋūāƚīḟīēđ ɉōƃ ṡēēҟēṙ"
+
+#. Error State message
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ErrorState/ErrorState.tsx:1
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/JobSelector/JobSelector.tsx:1
+msgid "Please refresh the page or try again later."
+msgstr "Ṕ'ƚēāṡē ṙēḟṙēṡħ ṫħē ṗāḡē ōṙ ṫṙẏ āḡāīṅ ƚāṫēṙ."
+
+#. placeholder for the feedback of disabling VR
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/VrDisablePopup/VrDisableFeedbackContent.tsx:1
+msgid "Please type your feedback"
+msgstr "Ṕ'ƚēāṡē ṫẏṗē ẏōūṙ ḟēēđƃāċҟ"
+
+#. string which divide between feedback section and metadata section in email to disable Virtual Recruiter
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/utils/emailUtils.ts:1
+msgid "Please type your feedback above – Do not edit the lines below"
+msgstr "Ṕ'ƚēāṡē ṫẏṗē ẏōūṙ ḟēēđƃāċҟ āƃōṽē – Ɗō ṅōṫ ēđīṫ ṫħē ƚīṅēṡ ƃēƚōẇ"
+
+#. title of keyword optimization item
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/KeywordOptItem.tsx:1
+msgid "Popular keywords added to help more job seekers discover your job"
+msgstr "Ṕ'ōṗūƚāṙ ҟēẏẇōṙđṡ āđđēđ ṫō ħēƚṗ ṁōṙē ɉōƃ ṡēēҟēṙṡ đīṡċōṽēṙ ẏōūṙ ɉōƃ"
+
+#. description of cover letter optimization item
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/CoverLetterOptItem.tsx:1
+msgid "Receiving a cover letter gives a glimpse into the soft skills of the candidate and helps in identifying which applicants that are commited to their application"
+msgstr "Ŕ'ēċēīṽīṅḡ ā ċōṽēṙ ƚēṫṫēṙ ḡīṽēṡ ā ḡƚīṁṗṡē īṅṫō ṫħē ṡōḟṫ ṡҟīƚƚṡ ōḟ ṫħē ċāṅđīđāṫē āṅđ ħēƚṗṡ īṅ īđēṅṫīḟẏīṅḡ ẇħīċħ āṗṗƚīċāṅṫṡ ṫħāṫ āṙē ċōṁṁīṫēđ ṫō ṫħēīṙ āṗṗƚīċāṫīōṅ"
+
+#. description of resume optimization item text
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/ResumeOptItem.tsx:1
+msgid "Receiving a resume helps us to determine which candidates best match the requirements that you shared with us in the job description"
+msgstr "Ŕ'ēċēīṽīṅḡ ā ṙēṡūṁē ħēƚṗṡ ūṡ ṫō đēṫēṙṁīṅē ẇħīċħ ċāṅđīđāṫēṡ ƃēṡṫ ṁāṫċħ ṫħē ṙēɋūīṙēṁēṅṫṡ ṫħāṫ ẏōū ṡħāṙēđ ẇīṫħ ūṡ īṅ ṫħē ɉōƃ đēṡċṙīṗṫīōṅ"
+
+#. automation type of shortlist creation event item
+#. automation type of shortlist updated event item
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/EventItem/ShortlistCreationEvntItem.tsx:1
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/EventItem/ShortlistRevampEvntItem.tsx:1
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/EventItem/ShortlistUpdateEvntItem.tsx:1
+msgid "Review your curated list"
+msgstr "Ŕ'ēṽīēẇ ẏōūṙ ċūṙāṫēđ ƚīṡṫ"
+
+#. title of salary optimization item
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/SalaryOptItem.tsx:1
+msgid "Salary added to your job posting"
+msgstr "Š'āƚāṙẏ āđđēđ ṫō ẏōūṙ ɉōƃ ṗōṡṫīṅḡ"
+
+#. Section item description for modal in vr logo
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ModalContent/content.ts:1
+msgid "Scan applicants’ resumes"
+msgstr "Š'ċāṅ āṗṗƚīċāṅṫṡ’ ṙēṡūṁēṡ"
+
+#. Section item description for modal in vr logo
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ModalContent/content.ts:1
+msgid "Scanning applicants’ resumes"
+msgstr "Š'ċāṅṅīṅḡ āṗṗƚīċāṅṫṡ’ ṙēṡūṁēṡ"
+
+#. Section item description for modal in vr logo
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ModalContent/content.ts:1
+msgid "Scanning millions of job seekers on Indeed"
+msgstr "Š'ċāṅṅīṅḡ ṁīƚƚīōṅṡ ōḟ ɉōƃ ṡēēҟēṙṡ ōṅ Īṅđēēđ"
+
+#. Example of when employers show interest to candidates
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/EmployerAssistOptItem.tsx:1
+msgid "Schedule an interview on Indeed"
+msgstr "Š'ċħēđūƚē āṅ īṅṫēṙṽīēẇ ōṅ Īṅđēēđ"
+
+#. description of shortlist updated event item
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/EventItem/ShortlistRevampEvntItem.tsx:1
+msgid "See the latest candidates the assistant recommends for you."
+msgstr "Š'ēē ṫħē ƚāṫēṡṫ ċāṅđīđāṫēṡ ṫħē āṡṡīṡṫāṅṫ ṙēċōṁṁēṅđṡ ḟōṙ ẏōū."
+
+#. Example of when employers show interest to candidates
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/EmployerAssistOptItem.tsx:1
+msgid "Send them a message on Indeed"
+msgstr "Š'ēṅđ ṫħēṁ ā ṁēṡṡāḡē ōṅ Īṅđēēđ"
+
+#. 1st line of email to disable Virtual Recruiter
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/utils/emailUtils.ts:1
+msgid "Send this email to disable the virtual recruiting assistant for this job"
+msgstr "Š'ēṅđ ṫħīṡ ēṁāīƚ ṫō đīṡāƃƚē ṫħē ṽīṙṫūāƚ ṙēċṙūīṫīṅḡ āṡṡīṡṫāṅṫ ḟōṙ ṫħīṡ ɉōƃ"
+
+#. Button text to show more activity log items
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLog/ActivityLog.tsx:1
+msgid "Show more"
+msgstr "Š'ħōẇ ṁōṙē"
+
+#. Section item description for modal in vr logo
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ModalContent/content.ts:1
+msgid "Showing how well they match the job requirements"
+msgstr "Š'ħōẇīṅḡ ħōẇ ẇēƚƚ ṫħēẏ ṁāṫċħ ṫħē ɉōƃ ṙēɋūīṙēṁēṅṫṡ"
+
+#. Error State title
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ErrorState/ErrorState.tsx:1
+msgid "Sorry, something went wrong"
+msgstr "Š'ōṙṙẏ, ṡōṁēṫħīṅḡ ẇēṅṫ ẇṙōṅḡ"
+
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/VrDisablePopup/VrDisableOptionContent.tsx:1
+msgid "Sorry, something went wrong. Please refresh the page or try again later."
+msgstr "Š'ōṙṙẏ, ṡōṁēṫħīṅḡ ẇēṅṫ ẇṙōṅḡ. Ṕƚēāṡē ṙēḟṙēṡħ ṫħē ṗāḡē ōṙ ṫṙẏ āḡāīṅ ƚāṫēṙ."
+
+#. label for job budget for sponsored job. Budget and budget period are displayed right above this string (e.g. $5.00 daily)
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/SummaryItem/BudgetItem.tsx:1
+msgid "Sponsor Job budget set"
+msgstr "Š'ṗōṅṡōṙ Ĵōƃ ƃūđḡēṫ ṡēṫ"
+
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/CpoSponsorshipOptItem.tsx:1
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/SponsorshipOptItem.tsx:1
+msgid "Sponsor budget set"
+msgstr "Š'ṗōṅṡōṙ ƃūđḡēṫ ṡēṫ"
+
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/SuggestedActionItem/SponsorshipSuggestionItem.tsx:1
+msgid "Sponsor job"
+msgstr "Š'ṗōṅṡōṙ ɉōƃ"
+
+#. Title of a suggested action item. This item recommends setting advertisement to the job. {0} is a price with a local currency unit.
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/SuggestedActionItem/SponsorshipSuggestionItem.tsx:1
+#, python-brace-format
+msgid "Sponsor job for {0} per month (recommended)"
+msgstr "Š''ṗōṅṡōṙ ɉōƃ ḟōṙ {0} ṗēṙ ṁōṅṫħ (ṙēċōṁṁēṅđēđ)"
+
+#. button text for submitting feedback
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/VrDisablePopup/VrDisableFeedbackContent.tsx:1
+msgid "Submit"
+msgstr "Š'ūƃṁīṫ"
+
+#. Section title in VR activity logs page. This sections lists actions we suggest employers to take for better job performance.
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/SuggestedActions/SuggestedActions.tsx:1
+msgid "Suggested Actions"
+msgstr "Š'ūḡḡēṡṫēđ Ăċṫīōṅṡ"
+
+#. Title of a suggested action item. This item recommends setting advertisement to the job. {0} is a price with a local currency unit.
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/SuggestedActionItem/SponsorshipSuggestionItem.tsx:1
+#, python-brace-format
+msgid "Target more job seekers by sponsoring your job for {0} per application (recommended)"
+msgstr "Ť''āṙḡēṫ ṁōṙē ɉōƃ ṡēēҟēṙṡ ƃẏ ṡṗōṅṡōṙīṅḡ ẏōūṙ ɉōƃ ḟōṙ {0} ṗēṙ āṗṗƚīċāṫīōṅ (ṙēċōṁṁēṅđēđ)"
+
+#. Body of a suggested action item. This item recommends setting advertisement to the job.
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/SuggestedActionItem/SponsorshipSuggestionItem.tsx:1
+msgid "The assistant recommends to sponsor your job so that you can receive more promising applications. You can customize the budget anytime. The assistant does not automatically sponsor your job without your confirmation."
+msgstr "Ť'ħē āṡṡīṡṫāṅṫ ṙēċōṁṁēṅđṡ ṫō ṡṗōṅṡōṙ ẏōūṙ ɉōƃ ṡō ṫħāṫ ẏōū ċāṅ ṙēċēīṽē ṁōṙē ṗṙōṁīṡīṅḡ āṗṗƚīċāṫīōṅṡ. Ŷōū ċāṅ ċūṡṫōṁīžē ṫħē ƃūđḡēṫ āṅẏṫīṁē. Ťħē āṡṡīṡṫāṅṫ đōēṡ ṅōṫ āūṫōṁāṫīċāƚƚẏ ṡṗōṅṡōṙ ẏōūṙ ɉōƃ ẇīṫħōūṫ ẏōūṙ ċōṅḟīṙṁāṫīōṅ."
+
+#. description text for togglin off
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/EmployerAssistOptItem.tsx:1
+msgid "The virtual recruiting assistant can cut out work for you by declining applicants that you haven’t acted on after 14 days."
+msgstr "Ť'ħē ṽīṙṫūāƚ ṙēċṙūīṫīṅḡ āṡṡīṡṫāṅṫ ċāṅ ċūṫ ōūṫ ẇōṙҟ ḟōṙ ẏōū ƃẏ đēċƚīṅīṅḡ āṗṗƚīċāṅṫṡ ṫħāṫ ẏōū ħāṽēṅ’ṫ āċṫēđ ōṅ āḟṫēṙ 14 đāẏṡ."
+
+#. Section subtitle for modal in vr logo
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ModalContent/content.ts:1
+msgid "The virtual recruiting assistant can find more quality candidates by:"
+msgstr "Ť'ħē ṽīṙṫūāƚ ṙēċṙūīṫīṅḡ āṡṡīṡṫāṅṫ ċāṅ ḟīṅđ ṁōṙē ɋūāƚīṫẏ ċāṅđīđāṫēṡ ƃẏ:"
+
+#. Section subtitle for modal in vr logo
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ModalContent/content.ts:1
+msgid "The virtual recruiting assistant can optimize your job by:"
+msgstr "Ť'ħē ṽīṙṫūāƚ ṙēċṙūīṫīṅḡ āṡṡīṡṫāṅṫ ċāṅ ōṗṫīṁīžē ẏōūṙ ɉōƃ ƃẏ:"
+
+#. description of shortlist creation event item
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/EventItem/ShortlistCreationEvntItem.tsx:1
+#, python-brace-format
+msgid "The virtual recruiting assistant has curated a list of promising candidates. This morning, we added {0} promising candidates to review. Contact them if they match your needs!"
+msgstr "Ť''ħē ṽīṙṫūāƚ ṙēċṙūīṫīṅḡ āṡṡīṡṫāṅṫ ħāṡ ċūṙāṫēđ ā ƚīṡṫ ōḟ ṗṙōṁīṡīṅḡ ċāṅđīđāṫēṡ. Ťħīṡ ṁōṙṅīṅḡ, ẇē āđđēđ {0} ṗṙōṁīṡīṅḡ ċāṅđīđāṫēṡ ṫō ṙēṽīēẇ. Ƈōṅṫāċṫ ṫħēṁ īḟ ṫħēẏ ṁāṫċħ ẏōūṙ ṅēēđṡ!"
+
+#. label that indicates virtual recruiter created a shortlist
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/SummaryItem/ShortlistItem.tsx:1
+msgid "The virtual recruiting assistant has highlighted some candidates."
+msgstr "Ť'ħē ṽīṙṫūāƚ ṙēċṙūīṫīṅḡ āṡṡīṡṫāṅṫ ħāṡ ħīḡħƚīḡħṫēđ ṡōṁē ċāṅđīđāṫēṡ."
+
+#. description of virtual recruiter enabled event item
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/EventItem/ConditionalOptEvntItem.tsx:1
+msgid "The virtual recruiting assistant has reviewed your job's performance during the first 24 hours since enrollment. In order to make sure that you have the most relevant candidates in your curated list, we've checked for any more possible optimizations. You'll be able to find those in this list."
+msgstr "Ť'ħē ṽīṙṫūāƚ ṙēċṙūīṫīṅḡ āṡṡīṡṫāṅṫ ħāṡ ṙēṽīēẇēđ ẏōūṙ ɉōƃ'ṡ ṗēṙḟōṙṁāṅċē đūṙīṅḡ ṫħē ḟīṙṡṫ 24 ħōūṙṡ ṡīṅċē ēṅṙōƚƚṁēṅṫ. Īṅ ōṙđēṙ ṫō ṁāҟē ṡūṙē ṫħāṫ ẏōū ħāṽē ṫħē ṁōṡṫ ṙēƚēṽāṅṫ ċāṅđīđāṫēṡ īṅ ẏōūṙ ċūṙāṫēđ ƚīṡṫ, ẇē'ṽē ċħēċҟēđ ḟōṙ āṅẏ ṁōṙē ṗōṡṡīƃƚē ōṗṫīṁīžāṫīōṅṡ. Ŷōū'ƚƚ ƃē āƃƚē ṫō ḟīṅđ ṫħōṡē īṅ ṫħīṡ ƚīṡṫ."
+
+#. description of shortlist updated event item
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/EventItem/ShortlistUpdateEvntItem.tsx:1
+#, python-brace-format
+msgid "The virtual recruiting assistant has updated a list of promising candidates. This morning, we added {0} promising candidates to review. Contact them if they match your needs!"
+msgstr "Ť''ħē ṽīṙṫūāƚ ṙēċṙūīṫīṅḡ āṡṡīṡṫāṅṫ ħāṡ ūṗđāṫēđ ā ƚīṡṫ ōḟ ṗṙōṁīṡīṅḡ ċāṅđīđāṫēṡ. Ťħīṡ ṁōṙṅīṅḡ, ẇē āđđēđ {0} ṗṙōṁīṡīṅḡ ċāṅđīđāṫēṡ ṫō ṙēṽīēẇ. Ƈōṅṫāċṫ ṫħēṁ īḟ ṫħēẏ ṁāṫċħ ẏōūṙ ṅēēđṡ!"
+
+#. description of pending optimization event item
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/EventItem/PendingOptimizationEvntItem.tsx:1
+msgid "The virtual recruiting assistant is currently analyzing your job and will automatically apply recommended optimizations to help you attract and identify the most promising candidates. Any changes that we make or actions needed from you can be found here in this list. Let's work together to find your next hire!"
+msgstr "Ť'ħē ṽīṙṫūāƚ ṙēċṙūīṫīṅḡ āṡṡīṡṫāṅṫ īṡ ċūṙṙēṅṫƚẏ āṅāƚẏžīṅḡ ẏōūṙ ɉōƃ āṅđ ẇīƚƚ āūṫōṁāṫīċāƚƚẏ āṗṗƚẏ ṙēċōṁṁēṅđēđ ōṗṫīṁīžāṫīōṅṡ ṫō ħēƚṗ ẏōū āṫṫṙāċṫ āṅđ īđēṅṫīḟẏ ṫħē ṁōṡṫ ṗṙōṁīṡīṅḡ ċāṅđīđāṫēṡ. Ăṅẏ ċħāṅḡēṡ ṫħāṫ ẇē ṁāҟē ōṙ āċṫīōṅṡ ṅēēđēđ ḟṙōṁ ẏōū ċāṅ ƃē ḟōūṅđ ħēṙē īṅ ṫħīṡ ƚīṡṫ. Ĺēṫ'ṡ ẇōṙҟ ṫōḡēṫħēṙ ṫō ḟīṅđ ẏōūṙ ṅēẋṫ ħīṙē!"
+
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/JobListDropdown/JobListDropdown.tsx:1
+msgid "The virtual recruiting assistant is only available to jobs that need optimization"
+msgstr "Ť'ħē ṽīṙṫūāƚ ṙēċṙūīṫīṅḡ āṡṡīṡṫāṅṫ īṡ ōṅƚẏ āṽāīƚāƃƚē ṫō ɉōƃṡ ṫħāṫ ṅēēđ ōṗṫīṁīžāṫīōṅ"
+
+#. Section subtitle for modal in vr logo
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ModalContent/content.ts:1
+msgid "The virtual recruiting assistant will provide you a curated list of promising candidates by:"
+msgstr "Ť'ħē ṽīṙṫūāƚ ṙēċṙūīṫīṅḡ āṡṡīṡṫāṅṫ ẇīƚƚ ṗṙōṽīđē ẏōū ā ċūṙāṫēđ ƚīṡṫ ōḟ ṗṙōṁīṡīṅḡ ċāṅđīđāṫēṡ ƃẏ:"
+
+#. value tag of pending optimization event item
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/EventItem/ConditionalOptEvntItem.tsx:1
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/EventItem/PendingOptimizationEvntItem.tsx:1
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/EmployerAssistOptItem.tsx:1
+msgid "Time saver"
+msgstr "Ť'īṁē ṡāṽēṙ"
+
+#. title of title normalization optimization item. {0} is new job title.
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/TitleNormOptItem.tsx:1
+#, python-brace-format
+msgid "Title updated to {0}"
+msgstr "Ť''īṫƚē ūṗđāṫēđ ṫō {0}"
+
+#. button text for turning off VR for one job
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/VrDisablePopup/VrDisableOptionContent.tsx:1
+msgid "Turn off for this job"
+msgstr "Ť'ūṙṅ ōḟḟ ḟōṙ ṫħīṡ ɉōƃ"
+
+#. checkbox label text in feedback questionnaire for disabling virtual recruiter
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/VrDisablePopup/VrDisableSurveyContent.tsx:1
+msgid "Unclear about price"
+msgstr "Ũ'ṅċƚēāṙ āƃōūṫ ṗṙīċē"
+
+#. Section item description for modal in vr logo
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ModalContent/content.ts:1
+msgid "Understand their expectations"
+msgstr "Ũ'ṅđēṙṡṫāṅđ ṫħēīṙ ēẋṗēċṫāṫīōṅṡ"
+
+#. Section item description for modal in vr logo
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ModalContent/content.ts:1
+msgid "Understand what would be your ideal candidates"
+msgstr "Ũ'ṅđēṙṡṫāṅđ ẇħāṫ ẇōūƚđ ƃē ẏōūṙ īđēāƚ ċāṅđīđāṫēṡ"
+
+#. checkbox label text in feedback questionnaire for disabling virtual recruiter
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/VrDisablePopup/VrDisableSurveyContent.tsx:1
+msgid "Unhappy with the optimizations applied"
+msgstr "Ũ'ṅħāṗṗẏ ẇīṫħ ṫħē ōṗṫīṁīžāṫīōṅṡ āṗṗƚīēđ"
+
+#. title of shortlist updated event item
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/EventItem/ShortlistUpdateEvntItem.tsx:1
+msgid "Updated a list of promising candidates"
+msgstr "Ũ'ṗđāṫēđ ā ƚīṡṫ ōḟ ṗṙōṁīṡīṅḡ ċāṅđīđāṫēṡ"
+
+#. description of personalized invite2apply optimization item
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/PersonalizedI2AOptItem.tsx:1
+msgid "Using the Indeed Resume database, we've identified job seekers that are looking for a new role and meet your qualifications. We've sent them customized invitations asking them to apply on your behalf. If they agree with the match & apply, you can review them in your shortlist."
+msgstr "Ũ'ṡīṅḡ ṫħē Īṅđēēđ Ŕēṡūṁē đāṫāƃāṡē, ẇē'ṽē īđēṅṫīḟīēđ ɉōƃ ṡēēҟēṙṡ ṫħāṫ āṙē ƚōōҟīṅḡ ḟōṙ ā ṅēẇ ṙōƚē āṅđ ṁēēṫ ẏōūṙ ɋūāƚīḟīċāṫīōṅṡ. Ŵē'ṽē ṡēṅṫ ṫħēṁ ċūṡṫōṁīžēđ īṅṽīṫāṫīōṅṡ āṡҟīṅḡ ṫħēṁ ṫō āṗṗƚẏ ōṅ ẏōūṙ ƃēħāƚḟ. Īḟ ṫħēẏ āḡṙēē ẇīṫħ ṫħē ṁāṫċħ & apply, you can review them in your shortlist."
+
+#. Button text for viewing job detail
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/EventItem/JobAliveEvntItem.tsx:1
+msgid "View job"
+msgstr "Ṽ'īēẇ ɉōƃ"
+
+#. button text for viewing shortlist
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/EventItem/ShortlistCreationEvntItem.tsx:1
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/EventItem/ShortlistRevampEvntItem.tsx:1
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/EventItem/ShortlistUpdateEvntItem.tsx:1
+msgid "View your curated list"
+msgstr "Ṽ'īēẇ ẏōūṙ ċūṙāṫēđ ƚīṡṫ"
+
+#. heading of VR disable popup feedback
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/VrDisablePopup/VrDisableFeedbackContent.tsx:1
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/VrDisablePopup/VrDisableSurveyContent.tsx:1
+msgid "Virtual Recruiting assistant has been disabled"
+msgstr "Ṽ'īṙṫūāƚ Ŕēċṙūīṫīṅḡ āṡṡīṡṫāṅṫ ħāṡ ƃēēṅ đīṡāƃƚēđ"
+
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/VrStatus/VrStatus.tsx:1
+msgid "Virtual recruiting assistant:"
+msgstr "Ṽ'īṙṫūāƚ ṙēċṙūīṫīṅḡ āṡṡīṡṫāṅṫ:"
+
+#. description of assessment optimization item
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/AssessmentOptItem.tsx:1
+msgid "We added a Skills Assessment that successful jobs in your industry usually use to identify qualified applicants:"
+msgid_plural "We added Skills Assessments that successful jobs in your industry usually use to identify qualified applicants:"
+msgstr[0] "Ŵ'ē āđđēđ ā Šҟīƚƚṡ Ăṡṡēṡṡṁēṅṫ ṫħāṫ ṡūċċēṡṡḟūƚ ɉōƃṡ īṅ ẏōūṙ īṅđūṡṫṙẏ ūṡūāƚƚẏ ūṡē ṫō īđēṅṫīḟẏ ɋūāƚīḟīēđ āṗṗƚīċāṅṫṡ:"
+msgstr[1] "Ŵ'ē āđđēđ Šҟīƚƚṡ Ăṡṡēṡṡṁēṅṫṡ ṫħāṫ ṡūċċēṡṡḟūƚ ɉōƃṡ īṅ ẏōūṙ īṅđūṡṫṙẏ ūṡūāƚƚẏ ūṡē ṫō īđēṅṫīḟẏ ɋūāƚīḟīēđ āṗṗƚīċāṅṫṡ:"
+
+#. description of indeed question added optimization event
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/QuestionAddedOptItem.tsx:1
+msgid "We added an applicant qualification that successful jobs in your Industry usually add:"
+msgid_plural "We added applicant qualifications that successful jobs in your Industry usually add:"
+msgstr[0] "Ŵ'ē āđđēđ āṅ āṗṗƚīċāṅṫ ɋūāƚīḟīċāṫīōṅ ṫħāṫ ṡūċċēṡṡḟūƚ ɉōƃṡ īṅ ẏōūṙ Īṅđūṡṫṙẏ ūṡūāƚƚẏ āđđ:"
+msgstr[1] "Ŵ'ē āđđēđ āṗṗƚīċāṅṫ ɋūāƚīḟīċāṫīōṅṡ ṫħāṫ ṡūċċēṡṡḟūƚ ɉōƃṡ īṅ ẏōūṙ Īṅđūṡṫṙẏ ūṡūāƚƚẏ āđđ:"
+
+#. description of indeed question changed optimization event
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/QuestionUpdatedOptItem.tsx:1
+msgid "We changed the settings of your applicant qualification to require applicants to answer them. It helps identifying applicants that are commited to their applications. Question that will require a response to apply:"
+msgid_plural "We changed the settings of your applicant qualifications to require applicants to answer them. It helps identifying applicants that are commited to their applications. Questions that will require a response to apply:"
+msgstr[0] "Ŵ'ē ċħāṅḡēđ ṫħē ṡēṫṫīṅḡṡ ōḟ ẏōūṙ āṗṗƚīċāṅṫ ɋūāƚīḟīċāṫīōṅ ṫō ṙēɋūīṙē āṗṗƚīċāṅṫṡ ṫō āṅṡẇēṙ ṫħēṁ. Īṫ ħēƚṗṡ īđēṅṫīḟẏīṅḡ āṗṗƚīċāṅṫṡ ṫħāṫ āṙē ċōṁṁīṫēđ ṫō ṫħēīṙ āṗṗƚīċāṫīōṅṡ. ℚūēṡṫīōṅ ṫħāṫ ẇīƚƚ ṙēɋūīṙē ā ṙēṡṗōṅṡē ṫō āṗṗƚẏ:"
+msgstr[1] "Ŵ'ē ċħāṅḡēđ ṫħē ṡēṫṫīṅḡṡ ōḟ ẏōūṙ āṗṗƚīċāṅṫ ɋūāƚīḟīċāṫīōṅṡ ṫō ṙēɋūīṙē āṗṗƚīċāṅṫṡ ṫō āṅṡẇēṙ ṫħēṁ. Īṫ ħēƚṗṡ īđēṅṫīḟẏīṅḡ āṗṗƚīċāṅṫṡ ṫħāṫ āṙē ċōṁṁīṫēđ ṫō ṫħēīṙ āṗṗƚīċāṫīōṅṡ. ℚūēṡṫīōṅṡ ṫħāṫ ẇīƚƚ ṙēɋūīṙē ā ṙēṡṗōṅṡē ṫō āṗṗƚẏ:"
+
+#. description of keyword optimization item. This string will be in the next line of the list of added keywords
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/KeywordOptItem.tsx:1
+msgid "We found these common keywords for your job title and category across other jobs on Indeed.  We've added a keyword section to help increase your views."
+msgstr "Ŵ'ē ḟōūṅđ ṫħēṡē ċōṁṁōṅ ҟēẏẇōṙđṡ ḟōṙ ẏōūṙ ɉōƃ ṫīṫƚē āṅđ ċāṫēḡōṙẏ āċṙōṡṡ ōṫħēṙ ɉōƃṡ ōṅ Īṅđēēđ.  Ŵē'ṽē āđđēđ ā ҟēẏẇōṙđ ṡēċṫīōṅ ṫō ħēƚṗ īṅċṙēāṡē ẏōūṙ ṽīēẇṡ."
+
+#. description of urgent hire optimization item text
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/UrgentHireOptItem.tsx:1
+msgid "We want to make sure you have a good quantity of candidates as soon as possible. We've added a tag to your job that let's job seekers know you're 'urgently hiring' to increase your applies."
+msgstr "Ŵ'ē ẇāṅṫ ṫō ṁāҟē ṡūṙē ẏōū ħāṽē ā ḡōōđ ɋūāṅṫīṫẏ ōḟ ċāṅđīđāṫēṡ āṡ ṡōōṅ āṡ ṗōṡṡīƃƚē. Ŵē'ṽē āđđēđ ā ṫāḡ ṫō ẏōūṙ ɉōƃ ṫħāṫ ƚēṫ'ṡ ɉōƃ ṡēēҟēṙṡ ҟṅōẇ ẏōū'ṙē 'ūṙḡēṅṫƚẏ ħīṙīṅḡ' ṫō īṅċṙēāṡē ẏōūṙ āṗṗƚīēṡ."
+
+#. description text for togglin on
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/EmployerAssistOptItem.tsx:1
+msgid "We will notify the candidates that you don’t show interest in within 14 days. We consider you showed interest to candidates if you:"
+msgstr "Ŵ'ē ẇīƚƚ ṅōṫīḟẏ ṫħē ċāṅđīđāṫēṡ ṫħāṫ ẏōū đōṅ’ṫ ṡħōẇ īṅṫēṙēṡṫ īṅ ẇīṫħīṅ 14 đāẏṡ. Ŵē ċōṅṡīđēṙ ẏōū ṡħōẇēđ īṅṫēṙēṡṫ ṫō ċāṅđīđāṫēṡ īḟ ẏōū:"
+
+#. 2nd line of email to disable Virtual Recruiter
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/utils/emailUtils.ts:1
+msgid "We will process your request within 48 hours"
+msgstr "Ŵ'ē ẇīƚƚ ṗṙōċēṡṡ ẏōūṙ ṙēɋūēṡṫ ẇīṫħīṅ 48 ħōūṙṡ"
+
+#. description of virtual recruiter enabled event item
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/EventItem/VrEnabledEvntItem.tsx:1
+msgid "We'll send you a list every morning of the most qualified applications you have received over the past 24 hours. Your other candidates will still be visible on the Candidates tab."
+msgstr "Ŵ'ē'ƚƚ ṡēṅđ ẏōū ā ƚīṡṫ ēṽēṙẏ ṁōṙṅīṅḡ ōḟ ṫħē ṁōṡṫ ɋūāƚīḟīēđ āṗṗƚīċāṫīōṅṡ ẏōū ħāṽē ṙēċēīṽēđ ōṽēṙ ṫħē ṗāṡṫ 24 ħōūṙṡ. Ŷōūṙ ōṫħēṙ ċāṅđīđāṫēṡ ẇīƚƚ ṡṫīƚƚ ƃē ṽīṡīƃƚē ōṅ ṫħē Ƈāṅđīđāṫēṡ ṫāƃ."
+
+#. description of location expansion optimization item
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/I2AExpansionOptItem.tsx:1
+msgid "We're looking for active jobseekers within an hour commute of your location. We'll invite them to apply if they meet your qualifications"
+msgstr "Ŵ'ē'ṙē ƚōōҟīṅḡ ḟōṙ āċṫīṽē ɉōƃṡēēҟēṙṡ ẇīṫħīṅ āṅ ħōūṙ ċōṁṁūṫē ōḟ ẏōūṙ ƚōċāṫīōṅ. Ŵē'ƚƚ īṅṽīṫē ṫħēṁ ṫō āṗṗƚẏ īḟ ṫħēẏ ṁēēṫ ẏōūṙ ɋūāƚīḟīċāṫīōṅṡ"
+
+#. request to give us a feedback
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/VrDisablePopup/VrDisableFeedbackContent.tsx:1
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/VrDisablePopup/VrDisableSurveyContent.tsx:1
+msgid "We're sorry to see you go! If you could give us some feedback about your decision, it will allow us to keep improving the feature."
+msgstr "Ŵ'ē'ṙē ṡōṙṙẏ ṫō ṡēē ẏōū ḡō! Īḟ ẏōū ċōūƚđ ḡīṽē ūṡ ṡōṁē ḟēēđƃāċҟ āƃōūṫ ẏōūṙ đēċīṡīōṅ, īṫ ẇīƚƚ āƚƚōẇ ūṡ ṫō ҟēēṗ īṁṗṙōṽīṅḡ ṫħē ḟēāṫūṙē."
+
+#. description of company description optimization
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/CompanyDescriptionOptItem.tsx:1
+msgid "We've added the company description that you provided earlier to your job description in order to showcase your company to potential job seekers."
+msgstr "Ŵ'ē'ṽē āđđēđ ṫħē ċōṁṗāṅẏ đēṡċṙīṗṫīōṅ ṫħāṫ ẏōū ṗṙōṽīđēđ ēāṙƚīēṙ ṫō ẏōūṙ ɉōƃ đēṡċṙīṗṫīōṅ īṅ ōṙđēṙ ṫō ṡħōẇċāṡē ẏōūṙ ċōṁṗāṅẏ ṫō ṗōṫēṅṫīāƚ ɉōƃ ṡēēҟēṙṡ."
+
+#. title of urgent hire optimization item text
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/UrgentHireOptItem.tsx:1
+msgid "We've let job seekers know that you're looking to hire soon"
+msgstr "Ŵ'ē'ṽē ƚēṫ ɉōƃ ṡēēҟēṙṡ ҟṅōẇ ṫħāṫ ẏōū'ṙē ƚōōҟīṅḡ ṫō ħīṙē ṡōōṅ"
+
+#. description of title normalization optimization item
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/TitleNormOptItem.tsx:1
+msgid "We've updated your job title to reflect what job seekers on Indeed are more likely to search for. Your original title was added as a secondary title in your description."
+msgstr "Ŵ'ē'ṽē ūṗđāṫēđ ẏōūṙ ɉōƃ ṫīṫƚē ṫō ṙēḟƚēċṫ ẇħāṫ ɉōƃ ṡēēҟēṙṡ ōṅ Īṅđēēđ āṙē ṁōṙē ƚīҟēƚẏ ṫō ṡēāṙċħ ḟōṙ. Ŷōūṙ ōṙīḡīṅāƚ ṫīṫƚē ẇāṡ āđđēđ āṡ ā ṡēċōṅđāṙẏ ṫīṫƚē īṅ ẏōūṙ đēṡċṙīṗṫīōṅ."
+
+#. Modal header title in landing page
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ModalContent/ModalContent.tsx:1
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/VrManagement/VrManagement.tsx:1
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/pluginClasses/vrActivityLog/containers/VrActivityLogContainer.tsx:1
+msgid "What can the virtual recruiting assistant do for me?"
+msgstr "Ŵ'ħāṫ ċāṅ ṫħē ṽīṙṫūāƚ ṙēċṙūīṫīṅḡ āṡṡīṡṫāṅṫ đō ḟōṙ ṁē?"
+
+#. questionnaire description
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/VrDisablePopup/VrDisableFeedbackContent.tsx:1
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/VrDisablePopup/VrDisableSurveyContent.tsx:1
+msgid "What prompted you to disable?"
+msgstr "Ŵ'ħāṫ ṗṙōṁṗṫēđ ẏōū ṫō đīṡāƃƚē?"
+
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/utils/timeUtlis.ts:1
+msgid "Yesterday"
+msgstr "Ŷ'ēṡṫēṙđāẏ"
+
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/JobListDropdown/JobListDropdown.tsx:1
+msgid "You can enable the virtual recruiting assistant for your jobs below:"
+msgstr "Ŷ'ōū ċāṅ ēṅāƃƚē ṫħē ṽīṙṫūāƚ ṙēċṙūīṫīṅḡ āṡṡīṡṫāṅṫ ḟōṙ ẏōūṙ ɉōƃṡ ƃēƚōẇ:"
+
+#. title of shortlist updated event item
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/EventItem/ShortlistRevampEvntItem.tsx:1
+#, python-brace-format
+msgid "You have {0} new candidate waiting for your review"
+msgid_plural "You have {0} new candidates waiting for your review"
+msgstr[0] "Ŷ''ōū ħāṽē {0} ṅēẇ ċāṅđīđāṫē ẇāīṫīṅḡ ḟōṙ ẏōūṙ ṙēṽīēẇ"
+msgstr[1] "Ŷ''ōū ħāṽē {0} ṅēẇ ċāṅđīđāṫēṡ ẇāīṫīṅḡ ḟōṙ ẏōūṙ ṙēṽīēẇ"
+
+#. Description of job reviewing event
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/EventItem/JobReviewingEvntItem.tsx:1
+msgid "You will be notified when your job is live."
+msgstr "Ŷ'ōū ẇīƚƚ ƃē ṅōṫīḟīēđ ẇħēṅ ẏōūṙ ɉōƃ īṡ ƚīṽē."
+
+#. description of turning off VR for one job
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/VrDisablePopup/VrDisableOptionContent.tsx:1
+msgid "Your account enrollment will be saved and remain active for any other jobs you have enabled"
+msgstr "Ŷ'ōūṙ āċċōūṅṫ ēṅṙōƚƚṁēṅṫ ẇīƚƚ ƃē ṡāṽēđ āṅđ ṙēṁāīṅ āċṫīṽē ḟōṙ āṅẏ ōṫħēṙ ɉōƃṡ ẏōū ħāṽē ēṅāƃƚēđ"
+
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/CpoSponsorshipOptItem.tsx:1
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/SponsorshipOptItem.tsx:1
+#, python-brace-format
+msgid "Your job has a budget set: {0}"
+msgstr "Ŷ''ōūṙ ɉōƃ ħāṡ ā ƃūđḡēṫ ṡēṫ: {0}"
+
+#. description of job posted event
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/EventItem/JobPostedEvntItem.tsx:1
+msgid "Your job has been submitted to Indeed for review. You will be notified once it’s live."
+msgstr "Ŷ'ōūṙ ɉōƃ ħāṡ ƃēēṅ ṡūƃṁīṫṫēđ ṫō Īṅđēēđ ḟōṙ ṙēṽīēẇ. Ŷōū ẇīƚƚ ƃē ṅōṫīḟīēđ ōṅċē īṫ’ṡ ƚīṽē."
+
+#. Title of job reviewing event
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/EventItem/JobReviewingEvntItem.tsx:1
+msgid "Your job is now being reviewed"
+msgstr "Ŷ'ōūṙ ɉōƃ īṡ ṅōẇ ƃēīṅḡ ṙēṽīēẇēđ"
+
+#. title of job alive event
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/EventItem/JobAliveEvntItem.tsx:1
+msgid "Your job is now live!"
+msgstr "Ŷ'ōūṙ ɉōƃ īṡ ṅōẇ ƚīṽē!"
+
+#. title of title normalization optimization item. {0} is old job title. {1} is new job title.
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/ActivityLogItem/OptimizationItem/TitleNormOptItem.tsx:1
+#, python-brace-format
+msgid "Your job title {0} was updated to {1}"
+msgstr "Ŷ''ōūṙ ɉōƃ ṫīṫƚē {0} ẇāṡ ūṗđāṫēđ ṫō {1}"
+
+#. label for # of applicants. [{0}|{1}] is the number.
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/SummaryItem/ApplicantsItem.tsx:1
+#, python-brace-format
+msgid "[{0}|{1}] applicant"
+msgid_plural "[{0}|{1}] applicants"
+msgstr[0] "[{0}|{1}] ā''ṗṗƚīċāṅṫ"
+msgstr[1] "[{0}|{1}] ā''ṗṗƚīċāṅṫṡ"
+
+#. label for # of applicants sourced by virtual recruiter. [{0}|{1}] is the number.
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/SummaryItem/SourcedApplicantsItem.tsx:1
+#, python-brace-format
+msgid "[{0}|{1}] applicant sourced by the virtual recruiting assistant"
+msgid_plural "[{0}|{1}] applicants sourced by the virtual recruiting assistant"
+msgstr[0] "[{0}|{1}] ā''ṗṗƚīċāṅṫ ṡōūṙċēđ ƃẏ ṫħē ṽīṙṫūāƚ ṙēċṙūīṫīṅḡ āṡṡīṡṫāṅṫ"
+msgstr[1] "[{0}|{1}] ā''ṗṗƚīċāṅṫṡ ṡōūṙċēđ ƃẏ ṫħē ṽīṙṫūāƚ ṙēċṙūīṫīṅḡ āṡṡīṡṫāṅṫ"
+
+#. label for time saved by virtual recruiter. [{0}|{1}] is time saved in minutes.
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/SummaryItem/TimeSavedItem.tsx:1
+#, python-brace-format
+msgid "[{0}|{1}] min saved by the virtual recruiting assistant"
+msgid_plural "[{0}|{1}] mins saved by the virtual recruiting assistant"
+msgstr[0] "[{0}|{1}] ṁ''īṅ ṡāṽēđ ƃẏ ṫħē ṽīṙṫūāƚ ṙēċṙūīṫīṅḡ āṡṡīṡṫāṅṫ"
+msgstr[1] "[{0}|{1}] ṁ''īṅṡ ṡāṽēđ ƃẏ ṫħē ṽīṙṫūāƚ ṙēċṙūīṫīṅḡ āṡṡīṡṫāṅṫ"
+
+#. label for optimization applied by virtual recruiter. [{0}|{1}] is the number.
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/SummaryItem/AppliedOptimizationItem.tsx:1
+#, python-brace-format
+msgid "[{0}|{1}] optimization applied"
+msgid_plural "[{0}|{1}] optimizations applied"
+msgstr[0] "[{0}|{1}] ō''ṗṫīṁīžāṫīōṅ āṗṗƚīēđ"
+msgstr[1] "[{0}|{1}] ō''ṗṫīṁīžāṫīōṅṡ āṗṗƚīēđ"
+
+#. label that shows number of candidates in shortlist. [{0}|{1}] is number of candidates.
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/SummaryItem/ShortlistItem.tsx:1
+#, python-brace-format
+msgid "[{0}|{1}] promising candidate"
+msgid_plural "[{0}|{1}] promising candidates"
+msgstr[0] "[{0}|{1}] ṗ''ṙōṁīṡīṅḡ ċāṅđīđāṫē"
+msgstr[1] "[{0}|{1}] ṗ''ṙōṁīṡīṅḡ ċāṅđīđāṫēṡ"
+
+#. label for number of views. [{0}|{1}] is the number.
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/SummaryItem/ViewsItem.tsx:1
+#, python-brace-format
+msgid "[{0}|{1}] view"
+msgid_plural "[{0}|{1}] views"
+msgstr[0] "[{0}|{1}] ṽ''īēẇ"
+msgstr[1] "[{0}|{1}] ṽ''īēẇṡ"
+
+#. string to show end date. Next line of "Sponsor budget set". {0} is end date
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/utils/formatBudget.ts:1
+#, python-brace-format
+msgid "until {0}"
+msgstr "ū''ṅṫīƚ {0}"
+
+#. label for number of new candidates on shortlist
+#. label for number of new sourced applicants
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/SummaryItem/ShortlistItem.tsx:1
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/SummaryItem/SourcedApplicantsItem.tsx:1
+#, python-brace-format
+msgid "{0} new"
+msgid_plural "{0} new"
+msgstr[0] "{0} ṅ''ēẇ"
+msgstr[1] "{0} ṅ''ēẇ"
+
+#. for cost per apply job. {0} is budget with currency
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/utils/formatBudget.ts:1
+#, python-brace-format
+msgid "{0} per application"
+msgstr "{0} ṗ''ēṙ āṗṗƚīċāṫīōṅ"
+
+#. string to show daily budget set. {0} is budget with currency
+#. string to show daily salary. {0} is salary with currency
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/utils/formatBudget.ts:1
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/utils/formatSalary.ts:1
+#, python-brace-format
+msgid "{0} per day"
+msgstr "{0} ṗ''ēṙ đāẏ"
+
+#. string to show daily budget set. {0} is budget with currency, {1} is end date
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/utils/formatBudget.ts:1
+#, python-brace-format
+msgid "{0} per day until {1}"
+msgstr "{0} ṗ''ēṙ đāẏ ūṅṫīƚ {1}"
+
+#. string to show hourly salary. {0} is salary with currency
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/utils/formatSalary.ts:1
+#, python-brace-format
+msgid "{0} per hour"
+msgstr "{0} ṗ''ēṙ ħōūṙ"
+
+#. string to show monthly budget set. {0} is budget with currency
+#. string to show monthly salary. {0} is salary with currency
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/utils/formatBudget.ts:1
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/utils/formatSalary.ts:1
+#, python-brace-format
+msgid "{0} per month"
+msgstr "{0} ṗ''ēṙ ṁōṅṫħ"
+
+#. string to show monthly budget set. {0} is budget with currency, {1} is end date
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/utils/formatBudget.ts:1
+#, python-brace-format
+msgid "{0} per month until {1}"
+msgstr "{0} ṗ''ēṙ ṁōṅṫħ ūṅṫīƚ {1}"
+
+#. string to show weekly salary. {0} is salary with currency
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/utils/formatSalary.ts:1
+#, python-brace-format
+msgid "{0} per week"
+msgstr "{0} ṗ''ēṙ ẇēēҟ"
+
+#. string to show yearly salary. {0} is salary with currency
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/utils/formatSalary.ts:1
+#, python-brace-format
+msgid "{0} per year"
+msgstr "{0} ṗ''ēṙ ẏēāṙ"
+
+#. string to show lifetime budget set. {0} is budget with currency, {1} is end date
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/utils/formatBudget.ts:1
+#, python-brace-format
+msgid "{0} until {1}"
+msgstr "{0} ū''ṅṫīƚ {1}"
+
+#. label that indicates this job has higher viewer than average. {0} is the percentage.
+#: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/components/SummaryItem/ViewsItem.tsx:1
+#, python-format, python-brace-format
+msgid "{0}% higher than similar jobs"
+msgstr "{0}% ħ''īḡħēṙ ṫħāṅ ṡīṁīƚāṙ ɉōƃṡ"
