@@ -16,7 +16,7 @@ msgstr ""
 
 #. 3rd line of email to disable Virtual Recruiter
 #: /home/jenkins/agent/workspace/smb-intl/smb-intl--vrlog-draw-plugin-i18n-updater/src-js/utils/emailUtils.ts:1
-msgid "(Optional) Do you have any feedback for us?"
+msgid "    (Optional) Do you have any feedback for us?    "
 msgstr "(Optioneel) Heb je feedback voor ons?"
 
 #. separator between a list of locations
